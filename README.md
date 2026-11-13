@@ -1,4 +1,4 @@
-### Gabriel Bressanin
+### Gabriel Quirino Bressanin
 
 Estudo Ciência da Computação na UNISAGRADO. A maior parte do que sei de programação veio de projetos da faculdade que eu acabei levando mais longe do que o trabalho pedia.
 
