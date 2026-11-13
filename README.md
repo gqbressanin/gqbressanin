@@ -13,3 +13,5 @@ Hoje estou procurando uma oportunidade na área. Não tenho preferência fechada
 **Com o que eu trabalho:** C#, Unity, Python, JavaScript, HTML, CSS e Git.
 
 Pra conversar, me chama no [LinkedIn](https://www.linkedin.com/in/gabriel-bressanin-68a693335/).
+
+Mais informações: https://gqbressanin.github.io/
